@@ -1,0 +1,4 @@
+User connected from 192.168.1.10
+Failed login from 10.0.0.5
+Server address: 2001:db8::1
+Invalid address: 999.1.1.1
