@@ -1,4 +1,3 @@
-
 # Extract IP addresses from a text file
 import ipaddress
 import re
