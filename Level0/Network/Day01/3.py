@@ -1,5 +1,5 @@
 
-# Extract IP Addresses from a Text File
+# Extract IP addresses from a text file
 import ipaddress
 import re
 
